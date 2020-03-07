@@ -2,7 +2,7 @@
 
 ## Java: Object-oriented Programming
 
-Repository Directory: `JavaBasics`
+Repository Directory: `JavaOOPConcepts`
 
 Complete Video : [https://youtu.be/AtlYLNqSZXg]
 
@@ -28,3 +28,23 @@ Complete Video : [https://youtu.be/AtlYLNqSZXg]
 - Real-world objects into Java software objects
   Real-world Car into Java Object
 - Example Programs
+
+## Java Packages - Built-in & User-defined
+
+Repository Directory: `java-package`
+
+Complete Video : [https://youtu.be/MF4iKnv8TmI]
+
+- Notes
+- Java package?
+- Built-in packages
+- Simple class name & Fully qualified class name
+- Simple class name & Fully qualified class name - example program
+- Some important statements
+- Class name conflict & resolution
+- Class name conflict resolution - example program
+- Globally unique package names
+- User-defined package - example program
+- Package creation
+- Accessing packages from another package
+- When the packages you accessing are not in current directory (-classpath switch with single and multiple class path)
