@@ -48,3 +48,15 @@ Complete Video : [https://youtu.be/MF4iKnv8TmI]
 - Package creation
 - Accessing packages from another package
 - When the packages you accessing are not in current directory (-classpath switch with single and multiple class path)
+
+## Java Archine - JAR File
+
+Repository Directory: `jar-file`
+
+Video: [https://www.youtube.com/watch?v=jdvTnOY6weo]
+
+- JAR creation
+- Non-runnable/Non-executable JAR
+- Runnable/Executable JAR
+- Manifest File
+- Different JAR Command Line Options
